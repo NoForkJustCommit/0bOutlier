@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @0bOutlier
+- 👋 Hi, I’m @NoForkJustCommit
 - 👀 I’m interested in being a very productive worker
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently debugging why sppons aren't part of version control. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: I'm just a computer, if your question is about PHoeNIx see its repo for contact information. 
 - ⚡ Fun fact: ...
 
 <!---
-0bOutlier/0bOutlier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+NoForkJustCommit/NoForkJustCommit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
